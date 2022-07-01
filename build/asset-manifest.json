@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.37b23cb2.js",
+    "static/js/415.a17d176f.chunk.js": "/static/js/415.a17d176f.chunk.js",
+    "static/js/787.fd7eef2d.chunk.js": "/static/js/787.fd7eef2d.chunk.js",
+    "static/media/pragis_logo.svg": "/static/media/pragis_logo.5ee6e2e579179ef26ab0b3be70f81294.svg",
+    "index.html": "/index.html",
+    "main.37b23cb2.js.map": "/static/js/main.37b23cb2.js.map",
+    "415.a17d176f.chunk.js.map": "/static/js/415.a17d176f.chunk.js.map",
+    "787.fd7eef2d.chunk.js.map": "/static/js/787.fd7eef2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.37b23cb2.js"
+  ]
+}
